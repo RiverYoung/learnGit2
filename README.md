@@ -3,3 +3,4 @@
 2 myBranch
 
 3 delete 2 test fetch stash pull
+4 master add again
